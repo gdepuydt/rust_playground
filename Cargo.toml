@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "src/crate1",
+    "src/crate2",
+    "src/crate2/src/crate3",
+]
